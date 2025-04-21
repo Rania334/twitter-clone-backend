@@ -30,7 +30,7 @@ A RESTful backend for a Twitter-like application, built using Node.js, Express, 
 
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/Rania334/twitter-clone-backend.git
+   git clone https://github.com/Rania334/twitter-clone-backend.git
    cd twitter-backend
    
 ## License
